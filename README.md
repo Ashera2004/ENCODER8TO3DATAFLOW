@@ -51,7 +51,8 @@ Figure 02  Encoder 8 * 3
 
 **PROGRAM**
 
-![image](https://github.com/Ashera2004/ENCODER8TO3DATAFLOW/blob/main/8_3_Encoder.png)
+![encoder_code](https://github.com/user-attachments/assets/09eadbe1-9f7c-4c4b-8c70-706bfbb78329)
+
 
 
 Developed by: A S Siddarth
@@ -61,16 +62,17 @@ Register Number: 24010669
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
-![image](https://github.com/Ashera2004/ENCODER8TO3DATAFLOW/blob/main/8_3_Encoder_symbol.jpg)
+![encoder_rtl](https://github.com/user-attachments/assets/b8e996c9-e83c-47b4-af2e-440bdf85da72)
+
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
-![image](https://github.com/Ashera2004/ENCODER8TO3DATAFLOW/blob/main/8_3_Encoder_waveform.jpg)
+![encoder_waveform](https://github.com/user-attachments/assets/535890da-d784-4b35-a844-7957470d5eaa)
+
 
 **RESULTS**
 
-![image](https://github.com/Ashera2004/ENCODER8TO3DATAFLOW/blob/main/8_3_Encoder_result.png)
-
+Implementation of Encoder 8 to 3 in Dataflow Modelling using Verilog and validating their functionality using their functional tables is verified successfully. 
 
 
 
